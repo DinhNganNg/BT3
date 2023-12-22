@@ -5,7 +5,7 @@ import numpy as np
 
 class_list = {'0': 'Negative', '1': 'Neutral', '2': 'Positve'}
 
-st.title('Sentiment analysis from Vietnamese students’ feedback')
+st.title('Sentiment analysis from Vietnamese students’ feedback 🎭')
 
 image = Image.open('FB.jpg')
 st.image(image)
